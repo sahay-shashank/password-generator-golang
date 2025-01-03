@@ -1,5 +1,7 @@
 # Password Generator
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/sahay-shashank/password-generator-golang.svg)](https://pkg.go.dev/github.com/sahay-shashank/password-generator-golang)
+
 A CLI utility tool that can be used to generate passwords written in GoLang.
 
 ## Options
